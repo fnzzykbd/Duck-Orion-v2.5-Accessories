@@ -5,3 +5,8 @@ My personal files for the Duck Orion v2.5 accessory pieces. All of these are mod
 I've added screw holes to the outer weight, and for the sandwiched acryllic pieces I've combined a few files together. I've taken the Orion v3 files as a template and spaced them out according to the Orion v2 bottom housing file, then connected them and made the sides 1cm longer to fit the v2.5. For the front diffuser I've slimmed the v3 file, removed the exessive LED cutouts, and made the part a little bit smaller, as the unmodified part didn't fit.
 
 All of these files already have tolerances (NOT kerf!) applied to them and should fit without issue. Inner and outer weights need countersunk holes.
+
+![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-1.jpg)
+![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-2.jpg)
+![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-3.jpg)
+![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-4.jpg)
