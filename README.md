@@ -6,6 +6,10 @@ I've added screw holes to the outer weight, and for the sandwiched acryllic piec
 
 All of these files already have tolerances (NOT kerf!) applied to them and should fit without issue. Inner and outer weights need countersunk holes.
 
+Plate Files (added 29.11.24)
+
+These files have not been prototyped. @kasane on Discord shared their own plate file that turns out to have the exact same mounting as these files I've made in August of 2023, so I'll take this as confirmation that my files work. Mounting tab design has been copied from the original TC-V3 plate file and applied to the Orion v2.5 positions. The flex cuts have been designed to resemble the original Orion v2.5 plate file, though a version without flex cuts is also available as well as half plate versions.
+
 ![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-1.jpg)
 ![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-2.jpg)
 ![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-3.jpg)
