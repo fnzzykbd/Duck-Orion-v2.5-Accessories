@@ -14,3 +14,4 @@ These files have not been prototyped. @kasane on Discord shared their own plate 
 ![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-2.jpg)
 ![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-3.jpg)
 ![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion25-4.jpg)
+![alt text](https://github.com/fnzzykbd/Duck-Orion-v2.5-Accessories/blob/main/images/orion_plates_preview.png)
